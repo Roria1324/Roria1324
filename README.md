@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alexandro Dezso
+# Hi, I'm Alexandro Dezso
 
 ### Junior Frontend Developer
 
