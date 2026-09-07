@@ -11,22 +11,6 @@ Soy Técnico Superior en Desarrollo de Aplicaciones Web, con especial interés e
 - 🌱 Continúo aprendiendo y mejorando mis habilidades en desarrollo web
 - 💼 Buscando mi primera oportunidad profesional como desarrollador frontend junior
 
-## 🎰 Proyecto destacado: Pakitos Gambling
-
-[**Pakitos Gambling**](https://github.com/D4vSec/pakitos-gambling) es un casino online simulado desarrollado en equipo como proyecto final de DAW. La aplicación incluye ruleta, blackjack, distintas máquinas slots y un juego arcade, utilizando saldo virtual.
-
-Realicé 33 commits en el proyecto, con contribuciones centradas principalmente en el frontend:
-
-- Desarrollo y mejora del sistema de perfil de usuario
-- Implementación de slots 3x3, 3x5 y 5x5
-- Animaciones, diseño responsive y panel de apuestas
-- Mockup inicial y mapa de navegación
-- Integración con el flujo general de apuestas
-
-**Stack:** React · Vite · JavaScript · Tailwind CSS · GSAP · Node.js · Express · PostgreSQL · Docker
-
-[Ver repositorio del proyecto →](https://github.com/D4vSec/pakitos-gambling)
-
 ## 🛠️ Tecnologías
 
 ### Frontend
