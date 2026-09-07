@@ -1,43 +1,45 @@
-<div align="center">
+# Hi 👋, I'm Alexandro Dezso
 
-<h1>Hi 👋, I'm Alexandro Dezso</h1>
-<h3>Junior Frontend Developer</h3>
-<p>Higher Technician in Web Application Development (DAW)</p>
+### Junior Frontend Developer
 
-<hr>
+Higher Technician in Web Application Development (DAW)
 
-<h2>📌 About Me</h2>
+---
 
-<p>Frontend-oriented developer focused on building clean, responsive and user-friendly web interfaces.</p>
+## 📌 About Me
 
-<p>
-🌍 Based in Elda, Alicante, Spain<br>
-🌱 Currently improving my frontend development and UI/UX skills<br>
-✨ Looking for my first opportunity to grow as a Frontend Developer
+Frontend-oriented developer focused on building clean, responsive and user-friendly web interfaces.
+
+- 🌍 Based in Elda, Alicante, Spain
+- 🌱 Currently improving my frontend development and UI/UX skills
+- ✨ Looking for my first opportunity to grow as a Frontend Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,php,python" alt="Programming languages" />
 </p>
 
-<hr>
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend technologies" />
+</p>
 
-<h2>🛠️ Tech Stack</h2>
+### Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql" alt="Backend and database technologies" />
+</p>
 
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=js,java,php,python" alt="Programming languages" />
+### Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development tools" />
+</p>
 
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend technologies" />
+---
 
-<h3>Backend & Databases</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql" alt="Backend and database technologies" />
+## 🔗 Connect with Me
 
-<h3>Tools & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development tools" />
-
-<hr>
-
-<h2>🔗 Connect with Me</h2>
-
-<a href="https://www.linkedin.com/in/alexandro-dezso-99b830398/">
-  <img src="https://img.shields.io/badge/LinkedIn-Alexandro_Dezso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandro_Dezso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandro-dezso-99b830398/)
