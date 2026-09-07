@@ -1,33 +1,43 @@
-<h1 align="center">Hola 👋, soy Alexandro Dezso</h1>
-<h3 align="center">Junior Frontend Developer | React & JavaScript | Técnico Superior en DAW</h3>
+<div align="center">
 
-## 👨‍💻 Sobre mí
+<h1>Hi 👋, I'm Alexandro Dezso</h1>
+<h3>Junior Frontend Developer</h3>
+<p>Higher Technician in Web Application Development (DAW)</p>
 
-Soy Técnico Superior en Desarrollo de Aplicaciones Web, con especial interés en el desarrollo frontend y en crear interfaces web dinámicas, responsive y fáciles de usar.
+<hr>
 
-- 📍 Elda, Alicante, España
-- 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)
-- 🎨 Enfocado en frontend con React, JavaScript y Tailwind CSS
-- 🌱 Continúo aprendiendo y mejorando mis habilidades en desarrollo web
-- 💼 Buscando mi primera oportunidad profesional como desarrollador frontend junior
+<h2>📌 About Me</h2>
 
-## 🛠️ Tecnologías
+<p>Frontend-oriented developer focused on building clean, responsive and user-friendly web interfaces.</p>
 
-### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Tecnologías frontend" />
+🌍 Based in Elda, Alicante, Spain<br>
+🌱 Currently improving my frontend development and UI/UX skills<br>
+✨ Looking for my first opportunity to grow as a Frontend Developer
 </p>
 
-### Backend y bases de datos
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,postgres,mysql" alt="Backend y bases de datos" />
-</p>
+<hr>
 
-### Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Herramientas" />
-</p>
+<h2>🛠️ Tech Stack</h2>
 
-## 📫 Contacto
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=js,java,php,python" alt="Programming languages" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandro_Dezso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandro-dezso-99b830398/)
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend technologies" />
+
+<h3>Backend & Databases</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mysql" alt="Backend and database technologies" />
+
+<h3>Tools & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development tools" />
+
+<hr>
+
+<h2>🔗 Connect with Me</h2>
+
+<a href="https://www.linkedin.com/in/alexandro-dezso-99b830398/">
+  <img src="https://img.shields.io/badge/LinkedIn-Alexandro_Dezso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
