@@ -16,6 +16,20 @@ Frontend-oriented developer focused on building clean, responsive and user-frien
 
 ---
 
+## 🎰 Featured Project — Pakitos Gambling
+
+[Pakitos Gambling](https://github.com/yeraox/pakitos-gambling) is a simulated online casino developed as a team project for the Higher Degree in Web Application Development (DAW).
+
+### My contribution
+
+I contributed to the **frontend**, focusing on the **design and implementation of the website and game interfaces** using **React, JavaScript and Tailwind CSS**, with **Vite** as the frontend development tool.
+
+The full application includes an Express backend and a PostgreSQL database developed as part of the team's shared project.
+
+[View the project and source code →](https://github.com/yeraox/pakitos-gambling)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
