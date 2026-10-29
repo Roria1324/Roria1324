@@ -22,9 +22,9 @@ Frontend-oriented developer focused on building clean, responsive and user-frien
 
 ### My contribution
 
-I contributed to the **frontend**, focusing on the **design and implementation of the website and game interfaces** using **React, JavaScript and Tailwind CSS**, with **Vite** as the frontend development tool.
-
-The full application includes an Express backend and a PostgreSQL database developed as part of the team's shared project.
+- **UI design in Figma:** designed the casino interfaces using Figma's standard and AI-assisted tools, then translated those designs into working interfaces with **React, JavaScript, Tailwind CSS and Vite**.
+- **Frontend implementation:** built the **landing page, user profile screens and all three slot game variants**, combining hands-on development with AI tools to support implementation.
+- **Application integration:** created **custom React hooks**, implemented API calls and connected the interfaces to application data and database-backed functionality through the backend.
 
 [View the project and source code →](https://github.com/yeraox/pakitos-gambling)
 
